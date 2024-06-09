@@ -11,10 +11,8 @@ I have developed projects using Flutter  in particular and I am a software engin
 ## 👨‍💻 Professional Skills
 
 - **Backend:** NodeJS, and PHP
-- **Queue:** RabbitMQ, Kafka
-- **DevOps:** Amazon Web Services (AWS), Docker, Kubernetes, Jenkins, Redis
-- **Database:** Relational Database (SQL, PostgreSQL), Non-Relational Database (MongoDB)
-- **Frontend:** JavaScript, React, HTML, CSS
+- **Database:** SQL MYSQL FIREBASE MANGO DB
+- **Frontend:** JavaScript, , HTML, CSS
 - **Tools:** Git, , Postman
 
 <h3 align="left">🌐 Find Me Online</h3>
