@@ -6,8 +6,7 @@ Hello there, I'm Mohamed Abdirahman! 👋
 
 I graduated from Jazeera University, Faculty of Computer Science, Department of Information Technology in March 2021. My education provided a comprehensive understanding of Information Technology, covering a wide range of courses from fundamental computer science principles to advanced topics.
 
-I further honed my skills by successfully completing the Flutter + Backend Development Bootcamp. As a passionate software engineer, I specialize in designing and building scalable systems using Java. My interests lie particularly in microservices and software architecture.
-
+I further honed my skills by successfully completing the Flutter + Backend Development Bootcamp. As a passionate software engineer, I specialize in designing and building scalable systems using Flutter. 
 Additionally, I'm an app developer with expertise in Flutter development, proficient in crafting engaging cross-platform mobile applications. Leveraging my IT background, I enjoy exploring innovative solutions and collaborating with others to create something amazing. Let's connect and innovate together!
 
 ## 👨‍💻 Professional Skills
